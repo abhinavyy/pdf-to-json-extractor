@@ -1,0 +1,6 @@
+# requirements.txt
+streamlit
+PyMuPDF
+camelot-py[cv]
+pandas
+numpy
