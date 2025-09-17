@@ -119,5 +119,3 @@ This method is useful for testing, debugging, or integrating the parser into aut
     ```
 
 3.  After the script finishes, you will find the generated JSON file inside the `output/` directory.
-
-```
